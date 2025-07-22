@@ -1,7 +1,3 @@
-# Selenium-POM-TestNG-Maven
-This is sample of widely used POM framework in selenium using Java as scripting language. Maven is used for dependency management and continuous development. TestNG is used to maintain test cases
+#  Selenium UI Automation Framework (TestNG + POM + Maven)
 
-
-Downlaod project in your local machine and Import Project as exisitng maven project.
-After imporitng, use 'mvn clean' command
-Use 'mvn test' to execute test cases.
+A scalable, maintainable UI test automation framework built using **Selenium WebDriver**, **TestNG**, and **Page Object Model (POM)**. The project is designed for testing web applications with clean code architecture and reusable components.
